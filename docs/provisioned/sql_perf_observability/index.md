@@ -133,7 +133,7 @@ A useful piece of information readily available from DMLThroughput metric . At 2
         s
 ```
 
-**Optional:** Once the performance baseline is understood you can setup alarms against CW metrics when it exceeds the baseline for corrective actions.
+**Optional:** Once the performance baseline is understood you can setup alarms against CW metrics when it exceeds the baseline for corrective actions -test.
 
 ### Enhanced Monitoring
 
